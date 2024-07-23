@@ -81,7 +81,24 @@ Google Firebase Authentication & Firebase Realtime Database**.
 **C:\xampp\htdocs\onedrive_sync_theta**
 
 3.) Edit **Config.js** file at the following directory **onedrive_sync_theta/js/config/config.js** and paste your firebase credentials there where appropriates
- and save it. Ensure there is no empty line spaces in the config.js file. You are done.
+ and save it. Ensure there is no empty line spaces in the config.js file. 
+ 
+See Firebase Credential above or see it here below again
+
+ ```
+const firebaseConfig = {
+ apiKey: "xxxxxx",
+    authDomain: "onedrivesyncxxxxxx",
+    databaseURL: "https://onedrivesyncxxxxxxx-default-rtdb.firebaseio.com",
+    projectId: "onedrivesync-xxxxx",
+    storageBucket: "onedrivesync-xxxxx.appspot.com",
+    messagingSenderId: "xxxxxxxxx",
+    appId: "xxxxxxxxxxx",
+    measurementId: "xxxxxxxxxxxx"
+  };
+
+```
+save it and You are done.
 
 
 
