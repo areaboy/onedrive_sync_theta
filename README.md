@@ -7,7 +7,8 @@ An Interactive System that allows Users, Companies, Organisations etc. to easily
 This application is coded with **PHP, Bootstraps,Jquery/Ajax, Javascript etc.** and its being powered by **OneDrive API, Theta Video API, Google Firebase Authentication & Firebase Storage.**
 
 For Google Firebase Authentication, I leveraged MIT Open Source Sample Code at https://github.com/SanjaySunil/firebase-login
-How to Setup the Application.
+
+# How to Setup the Application.
 
 Application SourceCode can be downloaded from https://github.com/areaboy/onedrive_sync_theta
 
